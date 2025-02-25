@@ -13,3 +13,6 @@
 [submodule "EAD-Project-Reviews"]
 	path = EAD-Project-Reviews
 	url = https://github.com/YasodhaHeshan/EAD-Project-Reviews.git
+[submodule "EAD-project"]
+	path = EAD-project
+	url = https://github.com/JalithChamikara/EAD-project
