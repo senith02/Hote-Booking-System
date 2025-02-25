@@ -1,0 +1,15 @@
+[submodule "Springboot-Eureka"]
+	path = Springboot-Eureka
+	url = https://github.com/senith02/Springboot-Eureka.git
+[submodule "Hotels"]
+	path = Hotels
+	url = https://github.com/senith02/Hotels.git
+[submodule "EAD-Users-New"]
+	path = EAD-Users-New
+	url = https://github.com/sasmitha27/EAD-Users-New.git
+[submodule "EAD-Backend-Booking"]
+	path = EAD-Backend-Booking
+	url = https://github.com/JalithChamikara/EAD-Backend-Booking.git
+[submodule "EAD-Project-Reviews"]
+	path = EAD-Project-Reviews
+	url = https://github.com/YasodhaHeshan/EAD-Project-Reviews.git
